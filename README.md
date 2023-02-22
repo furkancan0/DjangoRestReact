@@ -1,2 +1,3 @@
 # DjangoRestReact
-![itsone](https://user-images.githubusercontent.com/106343831/220763519-bbbd3e02-9aba-4319-875b-4323c57c6a8a.png)
+![Ekran görüntüsü 2023-02-22 220021](https://user-images.githubusercontent.com/106343831/220763698-2acc2b32-7d4f-41b1-b6bf-f215c567f86f.png)
+
